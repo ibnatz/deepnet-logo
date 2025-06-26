@@ -13,7 +13,7 @@ document.body.appendChild(renderer.domElement);
 const geometry = new THREE.BoxGeometry(); // adding object to our scene so we get something solid to look at
 
 const loader =  new THREE.TextureLoader();
-const texture = loader.load('deepnet_lab_logo.jpeg');
+const texture = loader.load('/deepnet_lab_logo.jpeg');
 texture.colorSpace = THREE.SRGBColorSpace;
 
 const material = new THREE.MeshBasicMaterial({color: 0x6495ED, map: texture }) // creating a material to tell Three.js how to render the object
