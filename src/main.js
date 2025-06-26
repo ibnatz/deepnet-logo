@@ -1,4 +1,7 @@
-// comments by Ibnat
+// Rotating cube visualization for DeepNet Lab
+// Created by Ibnat Zareen (2025)
+// GitHub: https://github.com/ibnatz/deepnet-logo
+// Licensed under the MIT License
 
 import * as THREE from 'three';
 
