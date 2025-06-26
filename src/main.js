@@ -1,3 +1,5 @@
+// comments by Ibnat
+
 import * as THREE from 'three';
 
 const scene = new THREE.Scene(); // personal note: base object in Three.js, this is the thing that holds all of our 3D objects
