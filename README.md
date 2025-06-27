@@ -1,6 +1,6 @@
 # DeepNet Lab 3D Logo
 
-This project is a 3D rotating cube version of the DeepNet Lab logo, created using Three.js.
+This project is a 3D rotating cube version of the DeepNet Lab logo, created using Three.js
 
 ## Author
 *Ibnat Zareen*  
